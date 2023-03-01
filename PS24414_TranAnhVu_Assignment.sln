@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{8247A6B7-F13F-EDCC-4E61-4E02BC4AB086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartConsole", "SmartConsole.csproj", "{38EFC1DC-E6A4-CCEE-EED7-33A6451B8C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2D07B468-935B-3C68-0AE9-40FCC7C4DCB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8247A6B7-F13F-EDCC-4E61-4E02BC4AB086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8247A6B7-F13F-EDCC-4E61-4E02BC4AB086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8247A6B7-F13F-EDCC-4E61-4E02BC4AB086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8247A6B7-F13F-EDCC-4E61-4E02BC4AB086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EFC1DC-E6A4-CCEE-EED7-33A6451B8C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EFC1DC-E6A4-CCEE-EED7-33A6451B8C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EFC1DC-E6A4-CCEE-EED7-33A6451B8C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EFC1DC-E6A4-CCEE-EED7-33A6451B8C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D07B468-935B-3C68-0AE9-40FCC7C4DCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D07B468-935B-3C68-0AE9-40FCC7C4DCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D07B468-935B-3C68-0AE9-40FCC7C4DCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D07B468-935B-3C68-0AE9-40FCC7C4DCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

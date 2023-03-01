@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - TurtleEnemy
+  - LeftCollider
+  - RightCollider
+  - TopCollider
+  - BodyCollider
+  - ClearWorld
+  - PlantEnemy
+  - MysteryBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Foreground
+  - Background
+  - Ground
+  - MysteryBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2799856623
+    locked: 0
+  - name: Foreground
+    uniqueID: 2968855231
+    locked: 0
+  - name: Canvas
+    uniqueID: 2298718459
+    locked: 0
+  - name: Ground
+    uniqueID: 4163962319
+    locked: 0
+  - name: Player
+    uniqueID: 473144797
+    locked: 0
+  - name: GameElement
+    uniqueID: 961519989
+    locked: 0
+  - name: Tileset
+    uniqueID: 3435884879
+    locked: 0
